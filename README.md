@@ -1,1 +1,28 @@
-# flexblog
+
+
+# 💻 FlexBlog
+
+---
+
+## 🗒️ Sobre o projeto
+
+FlexBlog é uma pagina feita para praticar as propriedades do flexbox.
+
+---
+
+## 🛠 Tecnologias
+
+### Frontend:
+
+-   HTML
+-   CSS
+
+---
+
+## 🎨 Screens
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Flexblog" src="./img/flexblog.png" width="690px">
+</p>
