@@ -29,7 +29,7 @@ FlexBlog é uma pagina feita para praticar as propriedades do flexbox.
   <img alt="Flexblog" src="./img/flexblog.jpg" width="690px">
 </p>
 
-### Web
+### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Flexblog" src="./img/flexblog-mobile.png" width="390px">
