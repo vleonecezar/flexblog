@@ -1,20 +1,23 @@
-<h1>FlexBlog 💻</h1>
+# FlexBlog
 
-<div style="text-align: justify;">
-FlexBlog é uma pagina feita para praticar as propriedades do flexbox.<br/><br/>
-  
-<a href="https://vleonecezar.github.io/flexblog/">Clique aqui para testar</a>
+<div align="center">
+| <a href="#-sobre">Sobre</a> | <a href="#-teste-o-site">Teste o Site</a> |
 </div>
+<br>
 
-## 🛠 Tecnologias
-
-- <code>HTML</code>
-- <code>CSS</code>
-
-## 💻 Screens 📱
 <div align="center">
   
-![flexblog](https://user-images.githubusercontent.com/76831929/155632775-5662cc27-fe8c-453d-9029-33e891362343.jpg)
-![flexblog-mobile](https://user-images.githubusercontent.com/76831929/155632787-c4ead3ac-73a7-45af-92af-37aeacd0dcb3.png)
+![Web_capture_27-2-2022_05914_techsini com-removebg-preview](https://user-images.githubusercontent.com/76831929/155867686-d71fedb0-37d3-44be-adf8-23787ce65eff.png)
   
 </div>
+
+# 👨🏻‍🏫 Sobre
+FlexBlog é um site que foi feito com objetivo de conhecer e por em prática os conceitos de flexbox.
+
+# 👨🏻‍💻 Teste o site
+Você pode testar o site <a href="https://vleonecezar.github.io/flexblog/" target="_blank">clicando aqui</a>. <br>
+
+  ### Clone o repositório
+```
+  git clone https://github.com/vleonecezar/flexblog.git
+```
